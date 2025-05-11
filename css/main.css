@@ -1,0 +1,52 @@
+body,
+textarea,
+input,
+select {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+textarea {
+    height: 27ch !important;
+    resize: none !important;
+}
+
+pre {
+    margin-bottom: 0px;
+}
+
+#vsml-magic-number{
+    color: #ff4444 !important;
+}
+
+#vsml-layout-type {
+    color: #00ff00 !important;
+}
+
+#vsml-page-size {
+    color: #4444ff !important;
+}
+
+#vsml-nb-of-pages {
+    color: #ff8800 !important;
+}
+
+#vsml-nb-of-swap-pages {
+    color: #bb00bb !important;
+}
+
+#vsml-nb-of-bitmap-pages {
+    color: #00ff88 !important;
+}
+
+#vsml-nb-of-pt-pages {
+    color: #ffff00 !important;
+}
+
+#vsml-nb-of-plt-pages {
+    color: #ff00ff !important;
+}
+
+#vsml-page-used {
+    color: #00aaff !important;
+}
